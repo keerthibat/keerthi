@@ -1,0 +1,22 @@
+            body {
+                background-color: orangered;
+                color:white;
+                padding-left:20px;
+                display:inline-block;
+            }
+
+
+            footer{
+                text-align:center;
+                 padding:3px;
+                 background-color:darksalmon;
+                 color:white;
+                 margin-left:10px;
+                cursor:pointer;
+                        
+            }
+            
+            
+            header{
+                background-color :black;
+            }
